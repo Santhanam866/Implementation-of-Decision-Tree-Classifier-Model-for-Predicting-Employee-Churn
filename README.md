@@ -23,8 +23,8 @@ Find the accuracy of our model and predict the require values.
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Rithish R
-RegisterNumber: 212224040278
+Developed by: SANTHANAM S
+RegisterNumber: 212224040293
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data
